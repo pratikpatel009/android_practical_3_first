@@ -19,7 +19,6 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="36dp"
             android:gravity="center"
-
             android:text="SEARCH"
             android:textSize="80px" />
 
@@ -40,5 +39,4 @@
             android:layout_margin="15dp"
             android:text="SEARCH" />
     </LinearLayout>
-
 </androidx.constraintlayout.widget.ConstraintLayout>
